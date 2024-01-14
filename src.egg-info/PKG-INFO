@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Movie Recommender System
+Home-page: https://github.com/d3struf/Distributed Collaborative Filtering Book Recommendation System
+Author: d3struf
+Author-email: johnpaul.monter@tup.edu.ph
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Requires-Dist: numpy
+Requires-Dist: scikit-learn

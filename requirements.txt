@@ -1,0 +1,8 @@
+streamlit
+numpy
+scikit-learn
+pyspark
+pyspark[sql]
+
+#local packages
+-e .
