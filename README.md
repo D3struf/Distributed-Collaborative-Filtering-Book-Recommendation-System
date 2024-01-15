@@ -41,6 +41,19 @@ In training the Model, we used the KNN algorithm to cluster their ratings and in
 
 6. Extract the top k rows from the sorted array.
 
+## Distributed Framework - Dask
+Dask is a parallel computing library designed to seamlessly scale and handle larger-than-memory computations in a distributed environment.
+
+1. Convert the Pandas DataFrame to a Dask DataFrame
+
+2. Find the index of the target book in a distributed manner
+
+3. Compute the distances and suggestions in a distributed manner
+
+4. Schedule the computation and gather results
+
+5. Append the Book list into the array
+
 ## Usage
 
 ### Clone the Repository 
