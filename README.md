@@ -75,3 +75,10 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+
+
+## Collaborators
+- [Jeanne May Carolino](https://github.com/jeannmaycarolino)
+- [Almira Jill Garcia](https://github.com/Almirajill)
+- [John Paul Monter](https://github.com/D3struf) --ME
+- [Aaron Paul Sicio](https://github.com/aaronsicio08)
